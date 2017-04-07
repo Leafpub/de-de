@@ -148,6 +148,7 @@ return [
     'no_posts' => 'Keine Posts',
     'no_plugins' => 'Keine Plugins',
     'no_tags' => 'Keine Schlagwörter',
+    'no_updates' => 'Keine Updates verfügbar',
     'no_uploads' => 'Keine Medien gefunden',
     'no_users' => 'Keine Benutzer',
     'none' => 'Keins',
@@ -238,6 +239,7 @@ return [
     'underline' => 'Unterstreichen',
     'undo' => 'Rückgängig machen',
     'update' => 'Leafpub Update',
+    'updates' => 'Updates',
     'upload_failed' => 'Hochladen fehlgeschlagen',
     'upload' => 'Hochladen',
     'uploads' => 'Medien',
@@ -320,5 +322,6 @@ return [
     'thousands_separator' => '.',
 
     'language_code' => 'de-de',
-    'language_name' => 'Deutsch'
+    'language_name' => 'Deutsch',
+    'language_version' => '1.2.0'
 ];
