@@ -74,6 +74,8 @@ return [
     'email' => 'E-Mail',
     'embed' => 'Einbetten',
     'enter_your_password_to_continue' => 'Passwort eingeben um fortzufahren',
+    'enter_one_or_more_css_classes' => 'Gib eine oder mehrere CSS Klassen ein', 
+    'file_edited_successfully' => 'Datei erfolgreich bearbeitet',
     'favicon' => 'Favicon',
     'feature_this_post' => 'Diesen Post hervorheben',
     'featured' => 'Hervorgehoben',
