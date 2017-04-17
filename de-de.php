@@ -276,6 +276,10 @@ return [
     'second_pl' => 'Sekunden',
     'ago' => 'vor',
     '{n}_{time}_{ago}' => '{ago} {n} {time}',
+    'dashboard' => 'Dashboard', 
+    'rendering_the_dashboard' => 'Rendere das Dashboard', 
+    'select_a_media_file' => 'Wähle eine Mediendatei', 
+    'show_dashboard' => 'Zeige Dashboard',
 
     'january' => 'Januar',
     'february' => 'Februar',
